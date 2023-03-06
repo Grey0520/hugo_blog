@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/Grey0520"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,13 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://twitter.com/Grey0520"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "jianshu"
+name = "简书"
+url = "https://www.jianshu.com/u/67c77b3a585b"
+
